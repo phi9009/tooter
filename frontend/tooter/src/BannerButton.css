@@ -1,0 +1,8 @@
+div .bannerButton{
+    display: inline-block;
+    border-radius: 2em;
+}
+
+div .bannerButton:hover{
+    background-color: #3b3939;
+}
