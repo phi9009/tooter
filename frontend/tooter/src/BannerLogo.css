@@ -1,9 +1,10 @@
-div .bannerButton{
+div #bannerLogo{
     
     border-radius: 2em;
     width: auto;
+    font-size: 2em;
 }
 
-div .bannerButton:hover{
+div #bannerLogo:hover{
     background-color: #3b3939;
 }
