@@ -7,4 +7,5 @@ div #bannerLogo{
 
 div #bannerLogo:hover{
     background-color: #3b3939;
+    cursor: pointer;
 }

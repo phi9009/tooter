@@ -6,4 +6,5 @@ div .bannerButton{
 
 div .bannerButton:hover{
     background-color: #3b3939;
+    cursor: pointer;
 }
