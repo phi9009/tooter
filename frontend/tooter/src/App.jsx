@@ -7,7 +7,7 @@ function App() {
   const [darkMode, setDarkMode] = useState(false)
 
   return (
-    <div className='container bg-dark text-light'>
+    <div className='container tooter-bg text-light'>
       <div className='row justify-content-md-center'>
         <BannerBar />
         <Timeline />

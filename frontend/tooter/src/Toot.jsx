@@ -4,7 +4,7 @@ import "./Toot.css"
 export default function Toot({content, userName, userHandle}){
     console.log(userHandle)
     return (
-        <div className="container border-top border-bottom p-2 d-flex justify-content-start " >
+        <div className="container toot-box border-top border-bottom p-2 d-flex justify-content-start " >
             <div className="container iconBox">
                 <div className="container icon"></div>
             </div>

@@ -11,3 +11,12 @@ div .contentBox {
     height: 100%;
     flex-grow: 1;
 }
+
+.toot-box {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.toot-box:hover {
+    background-color: #2c2828;
+}

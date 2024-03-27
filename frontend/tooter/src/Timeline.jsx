@@ -35,7 +35,7 @@ export default function Timeline (){
     ]
     console.log(toots)
     return (
-        <div className="col-4 border">
+        <div className="col-4 border px-0">
             {toots.map((toot) => {
                 return(
                 <Toot key={toot._id} userName={toot.user.userName} userHandle={toot.user.userHandle} content={toot.content} />
